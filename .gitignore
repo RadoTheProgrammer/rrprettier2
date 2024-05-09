@@ -1,0 +1,17 @@
+## all
+/.DS_Store
+/sandbox
+/.vscode
+
+## language:python
+__pycache__
+/dist
+/build
+/.venv
+*.egg-info
+
+## project:rrprettier
+rrprettier_data.py
+
+
+
