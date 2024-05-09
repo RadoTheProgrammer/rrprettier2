@@ -22,6 +22,7 @@ packages = [
 #     { include = "arrow",from="src"}
 # ] #the one that works well but have to specify
 dependencies={python="^3.11"}
+readme="README.md"
 
 # [tool.poetry.packages]
 # { include = ["src/*"] }
